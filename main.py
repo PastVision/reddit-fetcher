@@ -93,7 +93,6 @@ class RedFetch:
 
 
 if __name__ == '__main__':
-    #fetcher = RedFetch('PastVision', sub='ForzaPhotography')
     fetcher = RedFetch(input('User: '), sub=input('Sub: '))
     fetcher.fetch()
     fetcher.download()

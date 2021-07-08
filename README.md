@@ -3,13 +3,13 @@
 Prepare:
 
 ```bash
-pip install main.py
+pip install requirements.txt
 ```
 
 OR
 
 ```bash
-python -m pip install main.py
+python -m pip install requirements.txt
 ```
 
 Usage:
